@@ -7,7 +7,7 @@ package mx.unam.aragon.fes;
 
 /**
  *
- * @author unam
+ * @author LESRLUEN
  */
 public class UsarPersona {
     public static void main(String[] args) {
